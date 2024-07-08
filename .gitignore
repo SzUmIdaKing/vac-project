@@ -2,3 +2,4 @@ venv/
 .idea/
 mysite/__pycache__
 home/__pycache__
+activate_env.sh
