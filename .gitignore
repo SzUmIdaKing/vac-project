@@ -3,3 +3,4 @@ venv/
 mysite/__pycache__
 home/__pycache__
 activate_env.sh
+login/__pycache__/
