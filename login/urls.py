@@ -2,5 +2,6 @@ from django.urls import path
 from login import views
 
 urlpatterns = [
-    path('login/', views.log_fun, name='home'),
+    path('login/', views.login_view, name='login'),
+    path('logout/', views.logout_view, name='logout'),  # Dodaj URL dla widoku wylogowania
 ]
